@@ -33,7 +33,7 @@ cur.execute("CREATE TABLE supplier_oil(id INT NOT NULL PRIMARY KEY AUTO_INCREMEN
 cur.execute("CREATE TABLE drivers(id INT NOT NULL, fname VARCHAR(40), lname VARCHAR(40), id_car INT NOT NULL, datatime VARCHAR(40), class VARCHAR(40))")
 cur.execute("CREATE TABLE cars_oil(id INT NOT NULL, id_driver INT NOT NULL, mark_car VARCHAR(40), carrying INT NOT NULL)")
 cur.execute("CREATE TABLE cars_truck(id INT NOT NULL, id_driver INT NOT NULL, mark_car VARCHAR(40), carrying INT NOT NULL)")
-cur.execute("CREATE TABLE supplier_food(id INT NOT NULL PRIMARY KEY AUTO_INCREMENT, id_driver VARCHAR(40), firm_name VARCHAR(40), food_name VARCHAR(40), sum_food INT NOT NULL)")
+cur.execute("CREATE TABLE supplier_food(id INT NOT NULL PRIMARY KEY AUTO_INCREMENT, id_driver INT, firm_name VARCHAR(40), food_name VARCHAR(40), sum_food INT NOT NULL)")
 cur.execute("CREATE TABLE schedule(datatime_begin VARCHAR(40), datatime_end VARCHAR(40), id_person INT NOT NULL, fname VARCHAR(40), lname VARCHAR(40))")
 cur.execute("CREATE TABLE chemicals(id INT NOT NULL, chemicals_name VARCHAR(40), fname_who VARCHAR(40), lname_who VARCHAR(40), datatime VARCHAR(40))")
 cur.execute("CREATE TABLE hcs(id_contract INT NOT NULL PRIMARY KEY AUTO_INCREMENT, sum INT NOT NULL, datatime VARCHAR(40))")
