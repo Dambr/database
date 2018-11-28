@@ -1,0 +1,7 @@
+[
+	{"id_insurance": 1, "type": "Life", "id_client": 1, "num_of_ins_claims": 0},
+	{"id_insurance": 2, "type": "Heath", "id_client": 2, "num_of_ins_claims": 0},
+	{"id_insurance": 3, "type": "Goods", "id_client": 3, "num_of_ins_claims": 0},
+	{"id_insurance": 4, "type": "Abduction", "id_client": 4, "num_of_ins_claims": 0},
+	{"id_insurance": 5, "type": "Money", "id_client": 5, "num_of_ins_claims": 0}
+]

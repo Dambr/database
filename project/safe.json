@@ -1,0 +1,7 @@
+[
+	{"id_worker": 1, "access": 1, "permitions": "User"},
+	{"id_worker": 2, "access": 2, "permitions": "User"},
+	{"id_worker": 3, "access": 3, "permitions": "User"},
+	{"id_worker": 4, "access": 4, "permitions": "Admin"},
+	{"id_worker": 5, "access": 5, "permitions": "Admin"}
+]

@@ -1,0 +1,7 @@
+[
+	{"id_hotel": 1, "title": "GrandHotel", "country": "Germany", "num_stars": 7},
+	{"id_hotel": 2, "title": "Eleon", "country": "Russia", "num_stars": 7},
+	{"id_hotel": 3, "title": "Armina", "country": "USA", "num_stars": 5},
+	{"id_hotel": 4, "title": "Gloria", "country": "Poland", "num_stars": 5},
+	{"id_hotel": 5, "title": "Roma", "country": "China", "num_stars": 5}
+]

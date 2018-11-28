@@ -1,0 +1,7 @@
+[
+	{"id_worker": 1, "fname": "Tracey", "lname": "Blare", "service": "2y", "sick_leave": "no", "vacation": "no"},
+	{"id_worker": 2, "fname": "Colin", "lname": "Kendal", "service": "1y", "sick_leave": "yes", "vacation": "no"},
+	{"id_worker": 3, "fname": "Adrian", "lname": "Attwood", "service": "3y", "sick_leave": "no", "vacation": "yes"},
+	{"id_worker": 4, "fname": "Dean", "lname": "Jacobson", "service": "5y", "sick_leave": "no", "vacation": "no"},
+	{"id_worker": 5, "fname": "John", "lname": "Lawman", "service": "5y", "sick_leave": "no", "vacation": "no"}
+]

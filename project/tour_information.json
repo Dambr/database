@@ -1,0 +1,7 @@
+[
+	{"id_payment": 1, "id_client": 1, "id_registration": 1, "id_friend": 1, "id_hotel": 1, "id_country": 1, "id_graft": 1, "id_transport": 5, "id_insurance": 1, "id_excursion": 1},
+	{"id_payment": 2, "id_client": 2, "id_registration": 2, "id_friend": 2, "id_hotel": 2, "id_country": 2, "id_graft": 2, "id_transport": 5, "id_insurance": 2, "id_excursion": 2},
+	{"id_payment": 3, "id_client": 3, "id_registration": 3, "id_friend": 3, "id_hotel": 3, "id_country": 3, "id_graft": 3, "id_transport": 5, "id_insurance": 3, "id_excursion": 3},
+	{"id_payment": 4, "id_client": 4, "id_registration": 4, "id_friend": 4, "id_hotel": 4, "id_country": 4, "id_graft": 4, "id_transport": 5, "id_insurance": 4, "id_excursion": 4},
+	{"id_payment": 5, "id_client": 5, "id_registration": 5, "id_friend": 5, "id_hotel": 5, "id_country": 5, "id_graft": 5, "id_transport": 5, "id_insurance": 5, "id_excursion": 5}
+]

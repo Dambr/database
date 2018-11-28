@@ -1,0 +1,7 @@
+[
+	{"id_country": 1, "title": "Germany", "range": 630, "visa": "yes"},
+	{"id_country": 2, "title": "Russia", "range": 3602, "visa": "yes"},
+	{"id_country": 3, "title": "USA", "range": 4417, "visa": "yes"},
+	{"id_country": 4, "title": "Poland", "range": 1015, "visa": "yes"},
+	{"id_country": 5, "title": "China", "range": 4873, "visa": "yes"}
+]

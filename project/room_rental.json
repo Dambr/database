@@ -1,0 +1,7 @@
+[
+	{"id_room": 1, "space":"20x50", "id_contract":1, "summ": "500$"},
+	{"id_room": 2, "space":"20x30", "id_contract":2, "summ": "230$"},
+	{"id_room": 3, "space":"30x40", "id_contract":3, "summ": "373$"},
+	{"id_room": 4, "space":"10x15", "id_contract":4, "summ": "180$"},
+	{"id_room": 5, "space":"12x25", "id_contract":5, "summ": "240$"}
+]

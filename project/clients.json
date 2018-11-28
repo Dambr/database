@@ -1,0 +1,7 @@
+[
+	{"id_client": 1, "fname": "Mike", "lname": "Green", "citizenship": "England", "status": "VIP"},
+	{"id_client": 2, "fname": "Mary", "lname": "Hoggarth", "citizenship": "England", "status": "Simple"},
+	{"id_client": 3, "fname": "Alex", "lname": "Adderiy", "citizenship": "England", "status": "VIP"},
+	{"id_client": 4, "fname": "Luis", "lname": "Jenkin", "citizenship": "England", "status": "Simple"},
+	{"id_client": 5, "fname": "Aria", "lname": "Holmes", "citizenship": "England", "status": "VIP"}
+]

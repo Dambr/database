@@ -1,0 +1,7 @@
+[
+	{"id_registration": 1, "id_client": 1, "from": "England", "to": "Germany"},
+	{"id_registration": 2, "id_client": 2, "from": "England", "to": "Russia"},
+	{"id_registration": 3, "id_client": 3, "from": "England", "to": "USA"},
+	{"id_registration": 4, "id_client": 4, "from": "England", "to": "Poland"},
+	{"id_registration": 5, "id_client": 5, "from": "England", "to": "China"}
+]

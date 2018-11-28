@@ -1,0 +1,7 @@
+[
+	{"id_excursion": 1, "place": "Mountains", "cost": "80$", "duration": "4h"},
+	{"id_excursion": 2, "place": "Town", "cost": "20$", "duration": "2h"},
+	{"id_excursion": 3, "place": "Museum", "cost": "10$", "duration": "2.5h"},
+	{"id_excursion": 4, "place": "Farm", "cost": "20$", "duration": "1.5h"},
+	{"id_excursion": 5, "place": "Zoo", "cost": "50$", "duration": "4h"}
+]

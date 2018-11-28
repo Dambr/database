@@ -1,0 +1,12 @@
+[
+		{"id_payment": 1, "sender": "Mike", "summ": "100$"},
+		{"id_payment": 2, "sender": "Mary", "summ": "130$"},
+		{"id_payment": 3, "sender": "Alex", "summ": "225$"},
+		{"id_payment": 4, "sender": "Luis", "summ": "500$"},
+		{"id_payment": 5, "sender": "Aria", "summ": "300$"},
+		{"id_payment": 6, "sender": "Tracey", "summ": "100$"},
+		{"id_payment": 7, "sender": "Tracey", "summ": "100$"},
+		{"id_payment": 8, "sender": "Tracey", "summ": "100$"},
+		{"id_payment": 9, "sender": "Tracey", "summ": "100$"},
+		{"id_payment": 10," sender": "Tracey", "summ": "100$"}
+]

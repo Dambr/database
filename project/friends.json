@@ -1,0 +1,7 @@
+[
+	{"id_friend": 1, "title": "Boing", "character": "Transport"},
+	{"id_friend": 2, "title": "Saint Mary's Hospital", "character": "Graft"},
+	{"id_friend": 3, "title": "MetLife", "character": "Graft"},
+	{"id_friend": 4, "title": "Post info", "character": "Information about hotels"},
+	{"id_friend": 5, "title": "Geo map", "character": "Information about countries"}
+]

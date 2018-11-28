@@ -1,0 +1,7 @@
+[
+	{"id_transport": 1, "type": "Air", "cost": "200$+"},
+	{"id_transport": 2, "type": "Railway", "cost": "100$+"},
+	{"id_transport": 3, "type": "Water transport", "cost": "150$+"},
+	{"id_transport": 4, "type": "Taxi", "cost": "10$+"},
+	{"id_transport": 5, "type": "Combine", "cost": "Variable"}
+]

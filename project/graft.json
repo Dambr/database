@@ -1,0 +1,7 @@
+[
+	{"id_graft": 1, "id_client": 1, "graft_info": "Measles"},
+	{"id_graft": 2, "id_client": 2, "graft_info": "Parotits"},
+	{"id_graft": 3, "id_client": 3, "graft_info": "Flu"},
+	{"id_graft": 4, "id_client": 4, "graft_info": "Chlamydia"},
+	{"id_graft": 5, "id_client": 5, "graft_info": "Rheum"}
+]
